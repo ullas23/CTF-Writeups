@@ -2,7 +2,7 @@
 
 A summary of my methodology for compromising the **Empire: LupinOne** machine. Both the user and root flags were captured successfully.
 
-## 👉 **Looking for the deep dive?** Read the full report with complete command outputs and screenshots here: [View Full PDF Writeup](./LupinOne-Writeup.pdf)
+## 👉 **Looking for the deep dive?** Read the full report with complete command outputs and screenshots here: [(./LupinOne-Writeup.pdf)](https://github.com/ullas23/CTF-Writeups/blob/main/VulnHub-Empire-LupinOne/LupinOne-Writeup.pdf)
 
 ---
 
